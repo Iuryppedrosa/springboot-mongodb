@@ -7,7 +7,6 @@ O projeto `ProjetoSpring` tem o escopo de estudos sobre padrões de projetos, us
 
 ## Estrutura de Pastas
 Aqui está a estrutura de pastas do projeto `ProjetoSpring`:
-![UML de Classes](https://example.com/imagem.png)
 
 
 - **projetospring**: Raiz do projeto.
@@ -66,6 +65,9 @@ Representa uma postagem feita por um usuário. Atributos incluem `id`, `date`, `
 Representa um comentário em uma postagem. Atributos incluem `id`, `text` e `date`.
 
 ## Relacionamentos
+
+![UML de Classes]([https://example.com/imagem.png](https://private-user-images.githubusercontent.com/89420889/319286533-0fca3db2-4741-4fa6-8e10-1b0fc0c698f3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIxNjQ3NjQsIm5iZiI6MTcxMjE2NDQ2NCwicGF0aCI6Ii84OTQyMDg4OS8zMTkyODY1MzMtMGZjYTNkYjItNDc0MS00ZmE2LThlMTAtMWIwZmMwYzY5OGYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAzVDE3MTQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiNDMzZGY4ODk1ZjIxZTA3ZDU1MjI2YTZmMWYyYWI3YWY2NjhkZTI0NzdmZDliNzQ5OGQxMjQ5MzU0NDIxMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.whAwaEpmDIkeaNAlE9t-MYHqzFW3nBwkvyOxbmpGF38))
+
 - Um `User` pode ter vários `Post`.
 - Um `Post` pode ter vários `Comment`.
 
