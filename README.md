@@ -1,10 +1,13 @@
 # Documentação do ProjetoSpring
 
+![Padrao do Projeto](https://private-user-images.githubusercontent.com/89420889/319286550-88eed4af-9188-44a2-b33d-b9e8f0051d62.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIxNjQ3NjQsIm5iZiI6MTcxMjE2NDQ2NCwicGF0aCI6Ii84OTQyMDg4OS8zMTkyODY1NTAtODhlZWQ0YWYtOTE4OC00NGEyLWIzM2QtYjllOGYwMDUxZDYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAzVDE3MTQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5Yjk2ZTJiN2RiNWI5YTUxZTg3OWU5YjA2MjY1ODFiMzlkYTFlZGYyY2U0NjY3OGQ1MDIyYTg5MGJlMmQ3ZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DNLkqLgby83EzXDmHheqvrb2Ozf5TC99SUAE3QMw_yA)
+
 ## Escopo do Projeto
 O projeto `ProjetoSpring` tem o escopo de estudos sobre padrões de projetos, uso do Spring Boot, do banco de dados MongoDB e do padrão REST.
 
 ## Estrutura de Pastas
 Aqui está a estrutura de pastas do projeto `ProjetoSpring`:
+![UML de Classes](https://example.com/imagem.png)
 
 
 - **projetospring**: Raiz do projeto.
